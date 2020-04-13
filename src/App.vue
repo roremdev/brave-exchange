@@ -15,7 +15,7 @@ export default {
     return {
       links: [
         {
-          title: 'BTC',
+          title: 'btc',
           to: { name: 'coin-detail', params: { id: 'bitcoin' } }
         },
         {
